@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_add" android:id="@+id/mnuAdd" android:title="@string/add" app:showAsAction="withText"/>
+    <item android:icon="@drawable/ic_settings" android:id="@+id/mnuSettings" android:title="@string/settings" app:showAsAction="withText"/>
+    <item android:icon="@drawable/ic_search" android:id="@+id/mnuSearch" android:title="@string/search" app:showAsAction="withText"/>
+    <item android:id="@+id/mnuEmpty" android:title=""/>
+
+
+</menu>
